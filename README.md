@@ -9,3 +9,6 @@ Following N lines, each contains one integer, i{th} element of the array i.e. A[
 Output:
 Print all the elements of the array in reverse order, each element in a new line.
 
+Question 2
+Transpose of matrix
+
